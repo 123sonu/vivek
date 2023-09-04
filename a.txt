@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-full stack development
-=======
-full stack development 5th sem
->>>>>>> 63a229ec34351d134e9fca3828b21e0cab2de53e
+full stack development 5th sem test
